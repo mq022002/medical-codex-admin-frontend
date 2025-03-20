@@ -21,17 +21,9 @@ This section showcases the changes made to the user interface as part of our tea
 - Matthew Quijano ([https://github.com/mq022002](https://github.com/mq022002))
 - Thayer Picart ([https://github.com/tmpicart](https://github.com/tmpicart))
 
-<div style="display: grid; grid-template-columns: auto auto; align-items: center; gap: 20px;">
-  <div style="text-align: center;">Before:</div>
-  <div style="text-align: center;">After:</div>
-  <div>
-    <img src="public/images/readme/before.png" alt="Before UI" style="display: block; margin: 0 auto;">
-  </div>
-  <div>
-    <img src="public/images/readme/after.png" alt="After UI" style="display: block; margin: 0 auto;">
-  </div>
-</div>
-<br/>
+| Before                                        | After                                       |
+| --------------------------------------------- | ------------------------------------------- |
+| ![Before UI](public/images/readme/before.png) | ![After UI](public/images/readme/after.png) |
 
 ## System Requirements
 
